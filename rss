@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+  <atom:link href="http://www.dailymail.co.uk/home/index.html" rel="self" type="application/rss+xml"/>
+  <title> Symoid</title>
+  <link>https://symoid.com</link>
+  <description>
+  --------description
+  </description>
+  <language>en-gb</language>
+  <pubDate>Thu, 12 Jan 2017 09:24:21 +0000</pubDate>
+  <lastBuildDate>Thu, 12 Jan 2017 09:24:21 +0000</lastBuildDate>
+  <image>
+    <title> Articles | Mail Online</title>
+      <url>
+		http://i.dailymail.co.uk/i/furniture/mastHead_1_rss.png
+      </url>
+      <link>
+		http://www.dailymail.co.uk/home/index.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490
+      </link>
+  </image>
+  <item>
+  <title>
+	Church members join relatives in grief, anger at gunman
+  </title>
+  <link>
+	http://www.dailymail.co.uk/wires/ap/article-4112450/Church-members-join-relatives-grief-anger-gunman.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490
+  </link>
+  <description>
+	CHARLESTON, S.C. (AP) — It wasn't just the family members of the nine people Dylann Roof killed in a Charleston, South Carolina, church who suffered. Their c...
+  </description>
+  <enclosure url="http://i.dailymail.co.uk/i/pix/2017/01/12/article-urn:publicid:ap.org:c0ab382e2b764f4b9733e3cff54d1777-13MVVBQ3Z19dcc41574db1f44589-143_154x115.jpg" type="image/jpeg" length="42248"/>
+  <pubDate>Thu, 12 Jan 2017 09:24:19 +0000</pubDate>
+  <guid>
+	http://www.dailymail.co.uk/wires/ap/article-4112450/Church-members-join-relatives-grief-anger-gunman.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490
+  </guid>
+    <media:description>The Rev. Eric Manning, pastor at Emanuel AME, leaves the Federal Court House after the death sentence hearing for Dylann Roof on Wednesday, Jan. 11, 2017 in Charleston, S.C. (Leroy Burnell/The Post And Courier via AP)</media:description>
+    <media:thumbnail url="http://i.dailymail.co.uk/i/pix/2017/01/12/article-urn:publicid:ap.org:c0ab382e2b764f4b9733e3cff54d1777-13MVVBQ3Z19dcc41574db1f44589-143_154x115.jpg" width="154" height="115"/>
+    <media:credit scheme="urn:ebu">Associated Press Photo</media:credit>
+    <media:content type="image/jpeg" url="http://i.dailymail.co.uk/i/pix/2017/01/12/article-urn:publicid:ap.org:c0ab382e2b764f4b9733e3cff54d1777-13MVVBQ3Z19dcc41574db1f44589-143_154x115.jpg"/>
+  </item>
+  </channel>
+</rss>
